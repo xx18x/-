@@ -45,7 +45,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/hero-bg.jpg) no-repeat center center fixed;
+  background: url(https://i.imgur.com/DnlzgNi.jpeg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -209,11 +209,11 @@ h1.heading.pink:after {
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
 }
 .swiper-button-next, .swiper-container-rtl .swiper-button-prev {
-  background-image: url(../assets/arrow-right.png);
+  background-image: url(https://i.imgur.com/kCTTuAA.png);
   right: -40px;
 }
 .swiper-button-prev, .swiper-container-rtl .swiper-button-next {
-  background-image: url(../assets/arrow-left.png);
+  background-image: url(https://i.imgur.com/H0J5jWK.png);
   left: -40px;
 }
 
@@ -280,7 +280,7 @@ h1.heading.pink:after {
 
 /* Contact Banner */
 .contact-banner {
-  background: url(../assets/bg-pat.png) #664fee repeat;
+  background: url(https://i.imgur.com/lUDomTi.png) #664fee repeat;
   color: #fff;
   padding: 6em;
 }
